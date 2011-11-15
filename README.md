@@ -25,6 +25,6 @@ peppered with security holes. But I'm pretty sure that's how most
 people were doing it at a time when it was just us early pioneers
 trying to figure it all out.
 
-[The last modified on the file was May 29, 1996. If I recall correctly,
-I started writing it in late 1994/early 1995, putting in most of the
-work before I got married in mid-1995.]
+[The last modified date on the file was May 29, 1996. If I recall
+correctly, I started writing it in late 1994/early 1995, putting
+in most of the work before I got married in mid-1995.]
