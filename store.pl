@@ -127,7 +127,7 @@ sub store {
 
 	print "<CENTER><H3>Welcome to Avalon Software's Internet\n";
 	print "Store!</H3></CENTER>\n";
-	print "<P>This web page is set up to provide you with the priviledge and convenience of\n";
+	print "<P>This web page is set up to provide you with the privilege and convenience of\n";
 	print "shopping at our store without ever walking through the doors. Have a look around\n";
 	print "at our different departments. To order a particular item, simply click on its <B>BUY</B> tag.\n";
 	print "To get information about any of the products listed, click the mail button\n";
