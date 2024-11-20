@@ -14,10 +14,10 @@ back from the owners at the time was, "Why are you making this? It's
 just a fad. **Nobody will ever put their credit card number into the
 Internet**." So the online store died on the vine.
 
-I believed in the potential of the Internet though, so I kept at it.
-30+ years later I'm still building web sites; now using the Ruby
-language -- in many ways an evolution of the original perl language
-I started out with.
+I believed in the potential of the Internet though, so I found a way
+to create a business for myself and kept at it. 30+ years later I'm
+still building web sites; now using the Ruby language -- in many ways
+an evolution of the original perl language I started out with.
 
 This is the source code for that original online store. I just barely
 understood perl at the time, and now that I look at it, it's
