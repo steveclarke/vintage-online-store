@@ -10,7 +10,7 @@ out how to create a shopping cart of my own.
 I wrote it just on a whim for the computer sales company I was
 working for at the time. I had the store fully working and taking
 orders -- it just needed to be kept up to date. The feedback I got
-back from my peers at the time was, "Why are you making this? It's
+back from the owners at the time was, "Why are you making this? It's
 just a fad. **Nobody will ever put their credit card number into the
 Internet**." So the online store died on the vine.
 
